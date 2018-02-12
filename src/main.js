@@ -25,4 +25,4 @@ new Vue({
   store,
   components: {Spinner, Toast, MyCanvas},
   computed: mapState(['isLoading', 'isToasting'])
-}).$mount('#CMS2')
+}).$mount('#CMS')
